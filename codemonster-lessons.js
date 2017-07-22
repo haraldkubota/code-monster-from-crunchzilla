@@ -20,7 +20,7 @@ var lessons =
   {
     message: {
       en: "I'm Code Monster! (click on my words to see what's next)",
-      de: "Ich bin das Code Monster! (Klick auf meine Wörter was danach kommt)",
+      de: "Ich bin das Code Monster! (Klick auf meine Wörter um zu sehen was danach kommt)",
       jp: "コードモンスターだ！&nbsp;ここの文章をクリックして次に進んでね！"
     },
     code: "c.fillRect(20, 20, 50, 75);\n",
@@ -411,7 +411,7 @@ var lessons =
     message: {
       en: "The a in<span class=tutor-code>rgba</span>means alpha (how transparent the box is) from 0.0 (invisible) to 1.0 (solid)",
       de: "Das a in<span class=tutor-code>rgba</span>steht für alpha (Transparenz) und sie reicht von 0.0 (unsichtbar) bis 1.0 (undurchsichtig).",
-      jp: "<span class=tutor-code>rgb()</span>の「a」は<ruby>alpha<rp>(</rp><rt>アルファ</rt><rp>)</rp></ruby>のことで、どれだけすきとおっているかを意味しているんだ。数字は0.0(とうめい)から1.0(ぬりつぶし)までで、0、0.1、0.2、0.3、0.4、0.5、0.6、0.7、0.8、0.9、1 のどれかを使うんだよ。"
+      jp: "「rgba」の「a」はalphaのことで、どれだけすきとおっているかを意味しているんだ。数字は0.0(とうめい)から1.0(ぬりつぶし)までで、0、0.1、0.2、0.3、0.4、0.5、0.6、0.7、0.8、0.9、1 のどれかを使うんだよ。"
     }
   },
   {
